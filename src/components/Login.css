@@ -1,0 +1,31 @@
+.login {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login button {
+  display: flex;
+  align-items: center;
+  padding: 10px 30px;
+  font-size: 22px;
+  color: #458;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  scale: .9;
+  transition: all ease .3s;
+
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.login button:hover {
+  scale: 1;
+}
+
+.faceIcon {
+  display: flex;
+  margin-right: 10px;
+}
