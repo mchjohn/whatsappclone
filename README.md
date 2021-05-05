@@ -10,4 +10,4 @@ Na aplicação é possível enviar e receber mensagens. Para fazer login na apli
 
 
 
-![](D:\programacao\projetos\whatsappclone\public\image\webclone.jpg)
+![](https://raw.githubusercontent.com/mchjohn/whatsappclone/main/public/image/webclone.jpg)
